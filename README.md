@@ -1,9 +1,6 @@
 # 💫 About Me
 
 💻 Computer Systems Technology – Software Development student  
-🌱 Currently focusing on **Frontend (React, Tailwind, shadcn/ui)** and **clean code practices**  
-🚀 Building small projects to strengthen real-world development skills
-
 ---
 
 ## 💻 Tech Stack
