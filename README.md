@@ -1,6 +1,8 @@
 # 💫 About Me
 
 💻 Computer Systems Technology – Software Development student  
+🛠 Currently building small full-stack projects with React, Node.js, and MongoDB.
+
 ---
 
 ## 💻 Tech Stack
