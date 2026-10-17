@@ -1,7 +1,10 @@
-# 💫 About Me
+## 💫 About Me
 
-💻 Computer Systems Technology – Software Development student  
-🛠 Currently building small full-stack projects with React, Node.js, and MongoDB.
+Computer Systems Technology – Software Development and Network Engineering graduate.
+
+- 💻 Building full-stack and backend applications with React, Node.js, Express, and PostgreSQL.
+- 🌐 Exploring cloud infrastructure, networking, Linux, and system architecture.
+- 🛠 Interested in understanding how software, databases, and infrastructure work together.
 
 ---
 
